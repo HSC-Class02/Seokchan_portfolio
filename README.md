@@ -2,7 +2,7 @@
 
 QA Tester, 전기공학 전공자, 그리고 기술 엔지니어 황석찬의 공식 포트폴리오 레파지토리입니다.
 
-* **포트폴리오 주소**: [https://HSC-Class02.github.io/Seokchan_portfolio/](https://HSC-Class02.github.io/Seokchan_portfolio/)
+* **포트폴리오 주소**: [https://seokchanportfolio.vercel.app/](https://seokchanportfolio.vercel.app/)
 
 ---
 
