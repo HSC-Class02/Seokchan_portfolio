@@ -1,4 +1,4 @@
-# 황석찬 | Classic Blue Portfolio
+# 황석찬 | Portfolio
 
 QA Tester, 전기전자공학 전공자 황석찬의 공식 포트폴리오 레파지토리입니다.
 
