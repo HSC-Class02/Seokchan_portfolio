@@ -1,6 +1,6 @@
 # 황석찬 | Portfolio
 
-QA Tester, 전기전자공학 전공자 황석찬의 공식 포트폴리오 레파지토리입니다.
+QA Tester, 전기공학 전공자 황석찬의 공식 포트폴리오 레파지토리입니다.
 
 * **포트폴리오 주소**: [https://seokchanportfolio.vercel.app/](https://seokchanportfolio.vercel.app/)
 
